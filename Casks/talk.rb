@@ -1,6 +1,6 @@
 cask "talk" do
-  version "1.2.0"
-  sha256 "17262778d7cc35f0abb3c19d54ac588e2b5dd8b9e1465bd5d14aa4641382c104"
+  version "1.2.1"
+  sha256 "5a27239fa297831cc18c5048ce03db01faf78773e93b559146bf292e87174dee"
 
   url "https://github.com/SaranH8/homebrew-talk/releases/download/v#{version}/TALK-v#{version}.dmg"
   name "TALK"
